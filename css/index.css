@@ -3,7 +3,7 @@
   Andrew Tunecliffe, 2015
   http://atunnecliffe.com
 */
-/* uncomment to see outlines of stuff when you hover *-/
+/*Edits by Jean-Guillaume Jessin *-/
 :hover {
   background:rgba(0, 0, 0, 0.1);
 }/**/
@@ -107,7 +107,7 @@ ul.nav li a {
 
 .section .slider{
   background: #333;
-  background-image: url("bg.jpg");
+  background-image: url("mondrian.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
