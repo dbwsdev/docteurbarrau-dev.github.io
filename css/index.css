@@ -433,3 +433,12 @@ h2 {
     display: none;
   }
 }
+
+.p5 {
+  color: #F44336;
+}
+
+.isDisabled {
+  color: currentColor;
+  text-decoration: none;
+}
